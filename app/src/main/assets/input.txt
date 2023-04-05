@@ -1,0 +1,11 @@
+序号 温度3 湿度3 光照2 雨滴2 出行方式
+1 a a a a No
+2 a a a b No
+3 a a b b Yes
+4 a b b b Yes
+5 b b b b Yes
+6 c c a a No
+7 c c a b No
+8 c c b b Yes
+9 c b b b Yes
+10 a a a b No
