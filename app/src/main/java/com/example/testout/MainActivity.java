@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
         NaiveBayesTool naiveBayesTool = new NaiveBayesTool(this);
         // yes 步行  No车  a高 b正常  c低
         String youth_medium_yes_fair = naiveBayesTool.naiveBayesClassificate("a c b b");
-        Log.d("TAG", "onCreate: "+youth_medium_yes_fair);
     }
 
     public String getData(){
