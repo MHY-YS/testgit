@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
         String youth_medium_yes_fair = naiveBayesTool.naiveBayesClassificate("a c b b");
         Log.d("TAG", "onCreate: "+youth_medium_yes_fair);
     }
+
+    public String getData(){
+        return "1425000000000000000000000000000000000000000000";
+    }
 }
