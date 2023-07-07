@@ -16,7 +16,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         progressBar = findViewById(R.id.progress);
-        // 设置进度条颜色和背景颜色 ============ =============ssssssssssssssssssssddddddddddddddddddddddddddddd
+        // 设置进度条颜色和背景颜色 ============ =============ssssssssssssssssssss
+        // d
+        // d
+        // dddddddddddddddd
+        // ddddddddddd
         testBar();
     }
 
