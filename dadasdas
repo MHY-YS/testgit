@@ -1,0 +1,17 @@
+[33m160de66[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to 160de66286b
+[33m74fb942[m HEAD@{1}: commit: 练习五
+[33mc7b2848[m HEAD@{2}: reset: moving to c7b2848
+[33m5bc74a7[m HEAD@{3}: reset: moving to 5bc74a7
+[33mc7b2848[m HEAD@{4}: reset: moving to c7b2848
+[33mc7b2848[m HEAD@{5}: reset: moving to HEAD
+[33mc7b2848[m HEAD@{6}: reset: moving to c7b2848a5cc7f4
+[33m160de66[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{7}: reset: moving to 160de66286b5e310
+[33mc7b2848[m HEAD@{8}: commit: 练习4
+[33m5bc74a7[m HEAD@{9}: reset: moving to 5bc74a77
+[33m412982f[m HEAD@{10}: commit: 测试提交4
+[33m5bc74a7[m HEAD@{11}: commit: 测试3
+[33m160de66[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{12}: reset: moving to 160de66286b5e310440539eeecfb8328f1934b93
+[33m39f8672[m HEAD@{13}: reset: moving to 39f8672
+[33m160de66[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{14}: reset: moving to 160de66286b5e310440539eeecfb8328f1934b93
+[33m39f8672[m HEAD@{15}: commit: 修改1提交
+[33m160de66[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{16}: commit (initial): git练习
